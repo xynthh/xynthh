@@ -1,0 +1,15 @@
+name: CodeTime - Readme
+
+on:
+  schedule:
+    # Runs at 12am UTC
+    - cron: '0 0 * * *'
+
+jobs:
+  update-readme:
+    name: CodeTime's Graph in Readme
+    runs-on: ubuntu-latest
+    steps:
+      - uses: xafec/codetime-readme@beta
+        with:
+          INPUT_CODETIME_COOKIE_KEY: ${{ secrets.INPUT_CODETIME_COOKIE_KEY }}
