@@ -12,6 +12,14 @@
 
 ![Tools I use](https://skillicons.dev/icons?i=vscode,vite,vercel,git,github,discord)
 
+### ⏲️ This week I spent time on...
+
+<!--START_SECTION:codetime-->
+
+
+
+<!--END_SECTION:codetime-->
+
 ---
 
 <img alt="🦑" src="./assets/typescript.png"/>
