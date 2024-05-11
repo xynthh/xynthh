@@ -11,6 +11,6 @@ jobs:
     name: CodeTime's Graph in Readme
     runs-on: ubuntu-latest
     steps:
-      - uses: xafec/codetime-readme@beta
+      - uses: xafec/codetime-readme@beta01
         with:
           INPUT_CODETIME_COOKIE_KEY: ${{ secrets.INPUT_CODETIME_COOKIE_KEY }}
