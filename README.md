@@ -1,31 +1,31 @@
-## 👋 I’m xafec
-- 💎 I make something useless.
-- 😍 TypeScript enjoyer, Node.js user, C & C++ beginner.
-- 📱 How to reach me: [Discord](https://discord.com/users/1101222625956597871), [Signal](https://signal.me/#eu/0ieJruFSNtzs8RgLskTmga9NsYnvB0nVnWTP8nH-yHby8w1kEOtEtryxApfckAKV), [Telegram](https://t.me/xafdevc).
-- 🙏 Can you help me out with some coding and improve my English skills?
+## ð Iâm xafec
+- ð I make something useless.
+- ð TypeScript enjoyer, Node.js user, C & C++ beginner.
+- ð± How to reach me: [Discord](https://discord.com/users/1101222625956597871), [Signal](https://signal.me/#eu/0ieJruFSNtzs8RgLskTmga9NsYnvB0nVnWTP8nH-yHby8w1kEOtEtryxApfckAKV), [Telegram](https://t.me/xafdevc).
+- ð Can you help me out with some coding and improve my English skills?
 
-### 🔭 Tech stack
+### ð­ Tech stack
 
 ![Tech stack](https://skillicons.dev/icons?i=nodejs,typescript,mongo,vue,nuxt,tailwind,angular,astro,nest)
 
-### 🛠 Tools I use
+### ð  Tools I use
 
 ![Tools I use](https://skillicons.dev/icons?i=vscode,vite,vercel,git,github,discord)
 
-### ⏲️ This week I spent time on...
+### â²ï¸ This week I spent time on...
 
 <!--START_SECTION:codetime-->
 ```txt
-Total Time: 16 hrs 27 mins
+Total Time: 18 hrs 2 mins
 
-Astro       6 hrs 47 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   41.24 % 
-Python      3 hrs 13 mins       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.55 % 
-Dockerfile  1 hrs 31 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   9.22 % 
-Markdown    1 hrs 9 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   6.99 % 
-Javascript  39 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   3.95 %
+Astro       6 hrs 47 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.62 % 
+Python      3 hrs 18 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.30 % 
+Markdown    1 hrs 49 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.07 % 
+Dockerfile  1 hrs 31 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   8.41 % 
+Typescript  54 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   4.99 %
 ```
 <!--END_SECTION:codetime-->
 
 ---
 
-<img alt="🦑" src="./assets/typescript.png"/>
+<img alt="ð¦" src="./assets/typescript.png"/>
