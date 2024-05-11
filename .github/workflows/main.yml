@@ -15,3 +15,4 @@ jobs:
         with:
           INPUT_CODETIME_COOKIE_KEY: ${{ secrets.INPUT_CODETIME_COOKIE_KEY }}
           INPUT_USERNAME: "xafec"
+          INPUT_GH_TOKEN: ${{ secrets.INPUT_GH_TOKEN }}
