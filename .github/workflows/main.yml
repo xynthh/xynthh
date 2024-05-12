@@ -2,7 +2,7 @@ name: CodeTime - Readme
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */6 * * *"
 
 jobs:
   update-readme:
