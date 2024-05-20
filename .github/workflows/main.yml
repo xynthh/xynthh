@@ -1,14 +1,14 @@
 name: CodeTime - Readme
 
 on:
-  schedule:
-    - cron: "0 */6 * * *"
+  push:
+    branches: ["main"]
 
 jobs:
   update-readme:
     name: CodeTime's Graph in Readme
     runs-on: ubuntu-latest
     steps:
-      - uses: xafec/codetime-readme@node-v1.0
+      - uses: xafec/codetime-readme@main
         with:
           CODETIME_COOKIE_KEY: ${{ secrets.CODETIME_COOKIE_KEY }}
