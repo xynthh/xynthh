@@ -10,19 +10,7 @@
 
 ### 🛠 Tools I use
 
-![Tools I use](https://skillicons.dev/icons?i=vscode,vite,vercel,git,github,discord)
-
-### ⏲️ This week I spent time on...
-
-<!--START_SECTION:codetime-->
-```txt
-Total Time: 0 hrs 40 mins
-
-Typescript  25 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   62.50 % 
-Go          13 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   32.50 % 
-            2 mins              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   5.00 %
-```
-<!--END_SECTION:codetime-->
+![Tools I use](https://skillicons.dev/icons?i=vscode,vite,vercel,git,github,discord,gitlab)
 
 ---
 
